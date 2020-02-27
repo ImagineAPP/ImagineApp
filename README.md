@@ -1,15 +1,15 @@
 **O que é** <br>
-*Open Source Software* que mapeia os trajetos públicos e seus potenciais de transmissão pessoa-pessoa do vírus COVID19. <br> 
+*Open Source Software* que mapeia os trajetos públicos e seus potenciais de transmissão pessoa-pessoa do vírus COVID-19. <br> 
 
 **Como**  <br>
-O software traça mapas em tempo real do **status atual** e do **histórico de evolução** das rotas de potenciais transmissão entre pessoas do COVID19 em transportes públicos.  <br>
+O software traça mapas em tempo real do **status atual** e do **histórico de evolução** das rotas de potencial transmissão do COVID19 entre pessoas nos transportes públicos. <br> 
 
 **Para que** <br>
-Com o mapaamento das principais rotas de potencial transmissão do vírus: 
-  - Autoridades sanitárias podem planejar com mais eficiência suas campanhas de conscientização sobre os cuidados devidos. 
-  - Usuários podem evitar temporariamente a circulação pelas rotas de maior potencial de transmissão.
-  - Empresas podem planejar rotinas de trabalho remoto para colaboradores que transitam pelas rotas de maior potencial de transição. 
-  - Empresas de transporte podem planejar campanhas e instruir funcionários das rotas de maior potencial de transmissão.  <br>
+Com o mapeamento das principais rotas de potencial transmissão do vírus: 
+  - **Usuários da aplicação** podem evitar temporariamente a circulação pelas rotas de maior potencial de transmissão e tracar trajetos alternativos de transprte público. 
+  - **Empresas** podem planejar rotinas de trabalho remoto para colaboradores que transitam pelas rotas de maior potencial de transmissão. 
+  - **Empresas de transporte** podem instruir funcionários das rotas de maior potencial de transmissão e reduzir os impactos na operação.
+  - **Autoridades sanitárias** podem planejar com mais eficiência suas campanhas de conscientização sobre os cuidados pessoais. <br>
 
 **Como funciona**  <br>
 O usuário não precisa se identificar. Ele só precisa indicar o trajeto de casa para trabalho/escola apontando o local onde entra na malha de transporte e o local onde sai.  <br>
