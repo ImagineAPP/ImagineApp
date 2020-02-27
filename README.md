@@ -1,14 +1,12 @@
-# imagine-app
-
-*IMAGINE*
+# Imagine App
 
 **O que é**
 Software Open Source que mapeia os potenciais trajetos de  transmissão do COVID19 entre pessoas. 
 
-**Como*
+**Como**
 O IMAGINE traça mapas em tempo real do status e da dinâmica de evolução dos potenciais eixos de transmissão do vírus em transportes coletivos. 
 
-*Para que**
+**Para que**
 Com o mapaamento das principais rotas de potencial transmissão do vírus: 
   - Autoridades sanitárias podem planejar campanhas de conscientização de cuidados com mais eficiência. 
   - Usuários podem evitar temporariente a circulação nessas áreas.
@@ -30,11 +28,14 @@ O software traça uma série de mapas de calor e graficos, entre eles:
 
 **Apoiadores**
 
-IBM Redhat - desenvolvimento distribuído 
+Desenvolvimento distribuído
+IBM Redhat - desenvolvimento  
 
-Hospital Eisntein - assessoria técnica
+Assessoria técnica
+Hospital Eisntein - 
 
-Veículos de comunicação - divulgação
+Divulgação
+Veículos de comunicação - 
 
 
 ...
