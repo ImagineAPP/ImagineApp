@@ -1,5 +1,3 @@
-# Imagine App
-
 **O que é** <br>
 *Open Source Software* que mapeia os trajetos públicos e seus potenciais de transmissão pessoa-pessoa do vírus COVID19. <br> 
 
