@@ -1,4 +1,4 @@
-**Imagine all the people sharing all the world ** <br>
+**Imagine all the people sharing all the world** <br>
 
 *Open Source Software* sob a forma de aplicações mobile para rocessa dados compartilhados para um bem comum. <br> 
 
