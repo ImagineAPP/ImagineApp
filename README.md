@@ -5,8 +5,8 @@
 **COVID-19 CollaborativeTracker**  <br> 
 Open-source software application that maps the transmission potential of COVID-19 on public transport routes. 
 
-**Supporters** <br> 
-The following organizations and companies support the initiative:
+### Supporters 
+The following organizations and companies support the initiative: <br>
    - Collaborate with infrastructure and technical assistance to the software developer community.
       - RedHat (contact in progress)
       - AWS-Amazon (contact in progres)
