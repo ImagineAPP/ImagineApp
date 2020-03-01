@@ -3,7 +3,7 @@
 
 ### Developed Apps 
 **COVID-19 CollaborativeTracker**  <br> 
-Open-source software application that maps the transmission potential of COVID-19 on public transport routes. 
+Open-source software application that maps the transmission potential of COVID-19 on public transport routes [<more>](https://github.com/imagine-apps/COVID-19/wiki). 
 
 ### Supporters 
 The following organizations and companies support the initiative: <br>
