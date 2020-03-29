@@ -1,5 +1,5 @@
-# Imagine Apps
-**Open source** applications for collecting and sharing third party assets in exchange for a common purpose. <br>
+# Gestell
+**Open framework** for developping and sharing third party assets in exchange for a common purpose. <br>
 
 ### Developed Apps 
 **COVID-19 CollaborativeTracker**  <br> 
