@@ -3,9 +3,12 @@
 **Business pitch** <br>
 https://mnsmartproducts.github.io/angel-gadget/roadshow/business-pitch#portuguese
 
+**Português - Pitch inicial** <br> 
+https://bit.ly/AngelGadget-PitchInicial 
 
 
 
+<br><br><br><br><br><br><br><br>
 
 ==================================
 
