@@ -7,23 +7,17 @@
 <a name="english"></a>
 <br>
 
-### OPEN-PBL BUSINESS PITCH 
+### ANGEL-GADGET BUSINESS PITCH 
 
-A group of experienced education sector executives identified a business opportunity in the **imbalance** between the growing supply and stable demand for educational programs designed to develop **professional behavioral skills**.
-
-To take advantage of the opportunity, they designed an ingenious **teaching method** that uses **artificial intelligence** as a technology to **reduce costs** of running a class of courses that has already proven effective to develop **behavioral skills**.
-
-Thus, they launched OpenPBL, a company whose revenues come from the sale of **courses based on typical problems of everyday professional life** and the licensing of its **problem-based learning platform** for **companies** and **vocational schools**.
-
-The company intends to capture 4 shares of **US $ 33,000** that will be used in **software development** and as **working capital** in the **startup** phase of its five-year business plan. To this end, the original partners offer a projected **nominal return** of 36% a.a. interested investors.
+Soon 
 
 <p align = "center">
     ...
 </p>
 
-*1. The **executive summary** of the plan is available to investors interested in <a href="https://openpbl-school.github.io/InvestorRelations/NDA" target="_blank">OpenPBL Executive Summary</a>.*
+*1. The **executive summary** of the plan is available to investors interested in <a href="https://mnsmartproducts.github.io/angel-gadget/NDA" target="_blank">OpenPBL Executive Summary</a>.*
 
-*2. For more details of OpenPBL professional school, see a <a href="https://openpbl-school.github.io/Storytelling/#english" target="_blank">storytelling</a> of its standard product (Available only in Portuguese).*
+*2. For more details of MN Smart Products, see at <a href="https://mnsmartproducts.com/" target="_blank">page</a>.*
 
 <br>
 <p align="center">    
@@ -57,9 +51,9 @@ A empresa pretende captar 4 quotas de **R$ 182.000** `(4 x US $ 33.000)` que ser
     ... 
 </p>  
     
-*1. O **sumário executivo** do plano está disponível para investidores interessados em <a href="https://openpbl-school.github.io/InvestorRelations/NDA" target="_blank">OpenPBL Executive Summary</a>.*
+*1. O **sumário executivo** do plano está disponível para investidores interessados em <a href="https://mnsmartproducts.github.io/angel-gadget/NDA" target="_blank">OpenPBL Executive Summary</a>.*
 
-*2. Para mais detalhes sobre a escola profissionalizante OpenPBL, veja um <a href="https://openpbl-school.github.io/Storytelling/#portuguese" target="_blank">storytelling</a> do seu produto-tipo.* <br>
+*2. Para mais detalhes sobre a MN Smart Products OpenPBL, veja em <a href="https://mnsmartproducts.com/" target="_blank">página</a>.* <br>
 
 <p align="center">    
 ... 
