@@ -1,18 +1,109 @@
-# Gestell
-**Open framework** for developping and sharing third party assets in exchange for a common purpose. <br>
+## Roadshow (all links)
 
-### Developed Apps 
-**COVID-19 CollaborativeTracker**  <br> 
-Open-source software application that maps the transmission potential of COVID-19 on public transport routes. [view more](https://github.com/imagine-apps/COVID-19/wiki). 
+**Business pitch** <br>
+https://mnsmartproducts.github.io/angel-gadget/roadshow/business-pitch#portuguese
 
-### Supporters 
-The following organizations and companies support the initiative: <br>
-   - Collaborate with infrastructure and technical assistance to the software developer community.
-      - RedHat (contact in progress)
-      - AWS-Amazon (contact in progres)
 
-##
 
-**ImagineApps** <br>
-***Imagine** all the people sharing all the world...* <br>
+
+
+==================================
+
+
+**English - Business Plan** <br>
+Redireciona para BusinessPlan.md (inglês) criptografado. <br>
+https://openpbl-school.github.io/InvestorRelations/BusinessPlan
+
+**Português - Plano de Negócios** <br>
+Redireciona para BusinessPlan.md (Portuguese) criptografado. <br>
+https://openpbl-school.github.io/InvestorRelations/PlanoNegocios
+
+https://bit.ly/OpenPBL-PlanoNegocios
+
+
+## Bitly links
+
+**Página Relacionamento com investidores** <br>
+https://bit.ly/OpenPBL-IR <br>
+
+**Português - Pitch inicial** <br> 
+https://bit.ly/OpenPBL-Pitch-Inicial
+
+**Português - Redireciona para Sumário Executivo** <br>
+https://bit.ly/SumarioExecutivo18abr20 <br>
+
+**Português - Plano de Negócios** <br> 
+https://bit.ly/OpenPBL-Plano-Negocios <br>
+
+**Português - Sobre** <br> 
+https://bit.ly/OpenPBL_Sobre <br>
+
+**Business Pitch** <br> 
+https://bit.ly/OpenPBL-Business-Pitch
+
+**Redirect to Executive Summary** <br>
+https://bit.ly/OpenPBL-ExecutiveSummary-Apr22 
+
+<br>
+
+## Redirect links
+
+**Português - Redireciona para Sumário Executivo** <br>
+https://openpbl-school.github.io/InvestorRelations/SumarioExecutivo18abr
+
+**Inglês - Redireciona para Executive Summary** <br>
+https://openpbl-school.github.io/InvestorRelations/ExecutiveSummary-apr22 
+
+<br>
+
+## NDA
+
+**Non Disclosure Agreement - PDF** <br> 
+https://openpbl-school.github.io/InvestorRelations/NDA
+
+**Non Disclosure Agreement - PDF** <br> 
+https://openpbl-school.github.io/InvestorRelations/NDA(en)-OpenPBL-GaveaPar.pdf
+
+<br>
+
+## Original links
+
+**Investor Relations** <br>
+https://openpbl-school.github.io/InvestorRelations 
+
+**Business pitch** <br>
+https://openpbl-school.github.io/InvestorRelations/roadshow/BusinessPitch#english
+
+**Executive Summary** <br> 
+https://openpbl-school.github.io/InvestorRelations/roadshow/ExecutiveSummary#english 
+
+**Business Plan** <br> 
+https://openpbl-school.github.io/InvestorRelations/roadshow/BusinessPlan#english 
+
+**Financial Plan** <br> 
+https://openpbl-school.github.io/InvestorRelations/roadshow/FinancialPlan#english 
+
+**Startup** <br> 
+https://openpbl-school.github.io/InvestorRelations/roadshow/Startup#english 
+
+<br>
+
+## Auxiliary pages 
+
+**About** <br> 
+https://openpbl-school.github.io/InvestorRelations/roadshow/About#english 
+
+**Português - Estratégia de atração e conversão** <br> 
+https://openpbl-school.github.io/CustomerAcquisition/ 
+
+**Português - HomePage** <br> 
+https://openpbl-school.github.io/CustomerAcquisition/lp/home#start 
+
+**Português - Storytelling** <br> 
+https://openpbl-school.github.io/Storytelling/#portuguese
+
+<br>
+
+
+
 
