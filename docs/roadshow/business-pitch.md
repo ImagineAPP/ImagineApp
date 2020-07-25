@@ -1,8 +1,6 @@
 <p align="center">    
     <a href="#english">English</a>
     ·
-    <a href="#spanish">Spanish</a>
-    ·
     <a href="#portuguese">Portuguese</a>
 </p>
 
@@ -31,8 +29,6 @@ The company intends to capture 4 shares of **US $ 33,000** that will be used in 
 <p align="center">    
     <a href="#english">English</a>
     ·
-    <a href="#spanish">Spanish</a>
-    ·
     <a href="#portuguese">Portuguese</a>
 </p>
 
@@ -43,38 +39,6 @@ The company intends to capture 4 shares of **US $ 33,000** that will be used in 
 
 <a name="spanish"></a> 
 <br>
-
-### OPEN-PBL - IDEA DE NEGOCIO
-
-Un grupo de ejecutivos experimentados del sector educativo identificó una oportunidad de negocio en el **desequilibrio** entre la creciente oferta y la demanda estable de programas educativos diseñados para desarrollar **habilidades de comportamiento profesional**.
-
-Para aprovechar la oportunidad, diseñaron un ingenioso **método de enseñanza** que utiliza **inteligencia artificial** como tecnología para **reducir los costos** de ejecutar una clase de cursos que ya han demostrado ser efectivos para desarrollar **habilidades de comportamiento**.
-
-Por lo tanto, lanzaron OpenPBL, una compañía cuyos ingresos provienen de la venta de **cursos basados en problemas típicos de la vida profesional diaria** y la licencia de su **plataforma de aprendizaje basada en problemas** para **compañías** y **escuelas vocacionales**.
-
-La compañía tiene la intención de capturar 4 acciones de **US $ 33,000** que se utilizarán en **desarrollo de software** y como **capital de trabajo** en la fase **de inicio** de su **plan de negocios** de 5 años. Con este fin, los socios originales ofrecen un **rendimiento nominal** proyectado del 36% a.a. inversores interesados
-
-<p align = "center">
-    ...
-</p>
-
-*1. El **resumen ejecutivo** del plan está disponible para inversores interesados en <a href="https://openpbl-school.github.io/InvestorRelations/NDA" target="_blank"> Resumen ejecutivo de OpenPBL </a>.*
-
-*2. Para obtener más detalles sobre la escuela profesional OpenPBL, consulte una <a href="https://openpbl-school.github.io/Storytelling/#spanish" target="_blank">storytelling</a> de su producto estándar (solo está disponible la versión en portugués).*
-
-<br>
-<p align="center">    
-    <a href="#english">English</a>
-    ·
-    <a href="#spanish">Spanish</a>
-    ·
-    <a href="#portuguese">Portuguese</a>
-</p>
-
-## <br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-
 
 <a name="portuguese"></a> 
 <br>
@@ -104,8 +68,6 @@ A empresa pretende captar 4 quotas de **R$ 182.000** `(4 x US $ 33.000)` que ser
 <br>
 <p align="center">    
     <a href="#english">English</a>
-    ·
-    <a href="#spanish">Spanish</a>
     ·
     <a href="#portuguese">Portuguese</a>
 </p>
