@@ -3,6 +3,88 @@
 
 ## KICKSTARTER
 
+### IDENTIFICATION 
+
+**Category**: Technology <br>
+**Business idea (135)**: NOP <br>
+**Location (135)**: USA <br>
+
+
+### Basics
+
+Project title
+- Title
+- Subtitle
+
+Project category
+- Category
+- Subcategory
+
+Project location
+
+Project image
+
+Project video (optional)
+
+Target launch date (optional)
+
+Campaign duration
+
+
+
+### Funding
+
+Funding goal
+
+
+### Rewards
+
+
+
+### Story
+
+Project description
+
+Risks and challenges
+
+Environmental commitments (recommended)
+
+
+
+
+### People
+
+Profile 
+
+Colaborators 
+
+
+
+### Payment
+
+Contact email
+
+Funds recipient
+
+Identity confirmation
+
+Bank account 
+
+Payment source
+
+
+
+### Promotion
+
+Project URL
+
+Pre-launch page
+
+Google Analytics
+
+
+
+
 ### STORY
 Um grupo de experientes executivos do setor de tecnologia da **MN Smart Products** identificou uma oportunidade de negócios na crescente demanda do **setor de segurança e vigilância** por dispositivos cada vez mais inteligentes e **preditivos**.  
 
@@ -32,6 +114,15 @@ Many traditional disinfecting products on the market (wipes, plastic bottles, et
 
 **Sustainable materials**
 We want to make sure that being environmentally sustainable is a part of our mission, the main components of ACESO will be built with biodegradable and recyclable materials.  <br><br>.
+
+
+### FAQS
+working on 
+
+
+### UPDATES
+No updates yet.
+
 
 
 <p align="center">    
