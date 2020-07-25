@@ -39,13 +39,13 @@ Soon
 
 ### ANGEL GADGET - IDEIA DO NEGÓCIO
 
-Um grupo de experientes executivos do setor de tecnologia da **MN Smart Products** identificou uma oportunidade de negócios na crescente demanda no **setor de segurança e vigilância** por dispositivos cada vez mais inteligentes e **preditivos**.  
+Um grupo de experientes executivos do setor de tecnologia da **MN Smart Products** identificou uma oportunidade de negócios na crescente demanda do **setor de segurança e vigilância** por dispositivos cada vez mais inteligentes e **preditivos**.  
 
-Para aproveitar esta oportunidade, projetaram um engenhoso **modelo neuromorfico** para **identificar** com **antecedência**, ocorrências de **crimes diversos** em uma ou mais cenas audiovisuais. 
+Para aproveitar esta oportunidade, projetaram um engenhoso dispositivo baseado em um **modelo neuromórfico** para **identificar**, com **antecedência**, ocorrências de **crimes diversos** em uma ou mais cenas audiovisuais. 
 
-Assim, lançaram o **Angel Gadget**, um gadget para acoplamento em cameras de vídeo que utiliza a **inteligência artificial** como tecnologia para atuação na fase de **pre-crime**. 
+Assim, lançaram o **Angel Gadget**, um dispositivo para acoplamento em câmeras de vídeo que utiliza a **inteligência artificial** como tecnologia para atuar na fase de **pre-crime** das cenas. 
 
-A empresa pretende captar & quotas de **R$ &&&.000** `(4 x US $ &&.000)` que serão utilizados no **desenvolvimento de software** e como **capital de giro* na fase de **startup** do seu Plano de Negócios de cinco anos. Para isso, os sócios originais acenam com um **retorno nominal** projetado de &&% a.a. aos investidores interessados. 
+A empresa pretende captar & quotas de **R$ &&&.000** `(4 x US $ &&.000)` que serão utilizados no **desenvolvimento de software e hardware** e como **capital de giro* na fase de **startup** do seu Plano de Negócios de cinco anos. Para isso, os sócios originais acenam com um **retorno nominal** projetado de &&% a.a. aos investidores interessados. 
 
 <p align="center">    
     ... 
