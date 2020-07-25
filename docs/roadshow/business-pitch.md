@@ -45,7 +45,9 @@ Para aproveitar esta oportunidade, projetaram um engenhoso dispositivo baseado e
 
 Assim, lançaram o **Angel Gadget**, um dispositivo para acoplamento em câmeras de vídeo que utiliza a **inteligência artificial** como tecnologia para atuar na fase de **pre-crime** das cenas. 
 
-A empresa pretende captar & quotas de **R$ &&&.000** `(4 x US $ &&.000)` que serão utilizados no **desenvolvimento de software e hardware** e como **capital de giro* na fase de **startup** do seu Plano de Negócios de cinco anos. Para isso, os sócios originais acenam com um **retorno nominal** projetado de &&% a.a. aos investidores interessados. 
+A empresa pretende captar N quotas de **R$ &&&.000** `(4 x US $ &&.000)` que serão utilizados no **desenvolvimento de software e hardware** e como **capital de giro* na fase de **startup** do seu Plano de Negócios de cinco anos. Para isso, os sócios originais acenam com um **retorno nominal** projetado de &&% a.a. aos investidores interessados. 
+
+Parte desse valor está sendo levantado via crowdfunding através da plataforma <a href="https://mnsmartproducts.github.io/angel-gadget/roadshow/crowd-funding#english" target="_blank">KickStarter</a>.
 
 <p align="center">    
     ... 
