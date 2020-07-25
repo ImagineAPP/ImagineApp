@@ -15,7 +15,7 @@ Soon
     ...
 </p>
 
-*1. The **executive summary** of the plan is available to investors interested in <a href="https://mnsmartproducts.github.io/angel-gadget/NDA" target="_blank">OpenPBL Executive Summary</a>.*
+*1. The **executive summary** of the plan is available to investors interested in <a href="https://mnsmartproducts.github.io/angel-gadget/NDA" target="_blank">AngelGadget Executive Summary</a>.*
 
 *2. For more details of MN Smart Products, see at <a href="https://mnsmartproducts.com/" target="_blank">page</a>.*
 
@@ -51,7 +51,7 @@ A empresa pretende captar & quotas de **R$ &&&.000** `(4 x US $ &&.000)` que ser
     ... 
 </p>  
     
-*1. O **sumário executivo** do plano está disponível para investidores interessados em <a href="https://mnsmartproducts.github.io/angel-gadget/NDA" target="_blank">OpenPBL Executive Summary</a>.*
+*1. O **sumário executivo** do plano está disponível para investidores interessados em <a href="https://mnsmartproducts.github.io/angel-gadget/NDA" target="_blank">AngelGadget Executive Summary</a>.*
 
 *2. Para mais detalhes sobre a MN Smart Products OpenPBL, veja em <a href="https://mnsmartproducts.com/" target="_blank">página</a>.* <br>
 
