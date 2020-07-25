@@ -2,7 +2,7 @@
  <b> NON-DISCLOSURE AGREEMENT </b>
 </p>
 
-Under this agreement and in the best form of law, the company *GAVEAPAR SERVIÇOS DE APOIO ADMINISTRATIVO LTDA*, an Brazilian company registered with the ID *CNPJ 17.829.571/0001-36*, headquartered at *Rua Coronel Madureira, 40 - loja 9, Centro, Município de Saquarema, RJ, Brasil, CEP 28990-000*, hereby represented as required in its bylaws, hereinafter referred to as PROVIDER, and:
+Under this agreement and in the best form of law, the company *MN SMART PRODUCTS*, a company registered with the ID *&&&&*, headquartered at *Rua &&&&*, hereby represented as required in its bylaws, hereinafter referred to as PROVIDER, and:
   
 hereinafter referred to as RECIPIENT, have, between themselves, fair and contracted to enter into this Confidentiality Agreement, hereinafter referred to as AGREEMENT, to be governed by the following terms and conditions:
 
@@ -30,7 +30,7 @@ IN WITNESS WHEREOF, the parties hereto have caused this Agreement to be executed
 </p>
 
 <p align="center">    
-    <a href="https://angel-gadget.github.io/InvestorRelations/ExecutiveSummary-apr22" target="_blank">I have read and agree to the terms of the confidentiality agreement above</a>.
+    <a href="https://mnsmartproducts.github.io/angel-gadget/NDA" target="_blank">I have read and agree to the terms of the confidentiality agreement above</a>.
 </p>
 
 <br><br>
