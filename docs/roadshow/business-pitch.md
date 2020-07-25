@@ -7,7 +7,7 @@
 <a name="english"></a>
 <br>
 
-### ANGEL-GADGET BUSINESS PITCH 
+### ANGEL GADGET - BUSINESS PITCH 
 
 Soon 
 
@@ -37,15 +37,15 @@ Soon
 <a name="portuguese"></a> 
 <br>
 
-### OPEN-PBL - IDEIA DO NEGÓCIO
+### ANGEL GADGET - IDEIA DO NEGÓCIO
 
-Um grupo de experientes executivos do setor educacional identificou uma oportunidade de negócios no **desequilíbrio** entre a crescente oferta e a demanda estável de programas educacionais para o desenvolvimento de **competências comportamentais** profissionais. 
+Um grupo de experientes executivos do setor de tecnologia da **MN Smart Products** identificou uma oportunidade de negócios na crescente demanda no **setor de segurança e vigilância** por dispositivos cada vez mais inteligentes e **preditivos**.  
 
-Para aproveitar a oportunidade, projetaram um engenhoso **método de ensino** que utiliza a **inteligência artificial** como tecnologia para **reduzir os custos** da execução de uma classe de cursos que já se demonstrou eficaz para desenvolver **competências comportamentais**.
+Para aproveitar esta oportunidade, projetaram um engenhoso **modelo neuromorfico** para **identificar** com **antecedência**, ocorrências de **crimes diversos** em uma ou mais cenas audiovisuais. 
 
-Assim, lançaram a OpenPBL, uma empresa cujas receitas são provenientes da venda de **cursos baseados em problemas típicos do dia a dia profissional** e do licenciamento da sua **plataforma de aprendizagem baseada em problemas** para **empresas** e **escolas profissionalizantes**.
+Assim, lançaram o **Angel Gadget**, um gadget para acoplamento em cameras de vídeo que utiliza a **inteligência artificial** como tecnologia para atuação na fase de **pre-crime**. 
 
-A empresa pretende captar 4 quotas de **R$ 182.000** `(4 x US $ 33.000)` que serão utilizados no **desenvolvimento de software** e como **capital de giro* na fase de **startup** do seu Plano de Negócios de cinco anos. Para isso, os sócios originais acenam com um **retorno nominal** projetado de 36% a.a. aos investidores interessados. 
+A empresa pretende captar & quotas de **R$ &&&.000** `(4 x US $ &&.000)` que serão utilizados no **desenvolvimento de software** e como **capital de giro* na fase de **startup** do seu Plano de Negócios de cinco anos. Para isso, os sócios originais acenam com um **retorno nominal** projetado de &&% a.a. aos investidores interessados. 
 
 <p align="center">    
     ... 
